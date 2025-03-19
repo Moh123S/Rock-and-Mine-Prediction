@@ -2,11 +2,11 @@
 
 ## This python program uses Logistic regression to predict the Rock and Mine Detection.
 
-### Import the dataset and require librsries
+### Import the dataset and require libraries
 
 ![Screenshot 2025-03-19 113310](https://github.com/user-attachments/assets/1a7bcc83-8294-49c8-a2b0-6f247e59e3c1)
 
-### Describe Satatistical measures
+### Describe Statistical measures
 ![Screenshot 2025-03-19 113416](https://github.com/user-attachments/assets/d844d5b8-db64-4bad-b9e2-a4d4ede5ada5)
 
 ### Checking the value counts and calculate mean
@@ -24,6 +24,6 @@
 
 ![Screenshot 2025-03-19 113620](https://github.com/user-attachments/assets/43f2372b-50a8-4e5c-b5be-3aaf90245ff2)
 
- ### Creating Pridictive system using data input values
+ ### Creating Predictive system using data input values
  
 ![Screenshot 2025-03-19 113631](https://github.com/user-attachments/assets/00bdb05c-91a2-46f8-b9d8-d9fa3dcce58f)
